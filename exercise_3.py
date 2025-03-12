@@ -9,6 +9,6 @@ def is_even(number):
 
 isEven = is_even(11)
 if(isEven):
-    print("Number is Even")
+    print("\nNumber is Even\n")
 else:
-    print("Number is odd")
+    print("\nNumber is odd\n")

@@ -6,4 +6,4 @@ def multiply_all(*args):
 
 product = multiply_all(10,10)
 
-print(f'Product is {product}')
+print(f'\nProduct is {product}\n')

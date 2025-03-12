@@ -7,5 +7,5 @@ def calculate_area(length,width=10):
 area1 = calculate_area(50)
 area2 = calculate_area(50,20)
 
-print(f"area with out width is {area1}")
-print(f"area with width is {area2}")
+print(f"\narea with out width is {area1}")
+print(f"area with width is {area2}\n")

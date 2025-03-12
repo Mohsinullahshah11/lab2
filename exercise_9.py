@@ -2,12 +2,12 @@
 
 def log_decorator(func):
     def wrapper():
-        print("Function called")
+        print("\nFunction called")
         func()
     return wrapper
 
 @log_decorator
 def myfunction():
-    print("Hello! ")
+    print("Hello! \n")
 
 myfunction()

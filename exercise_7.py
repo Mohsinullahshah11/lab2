@@ -12,5 +12,5 @@ def multiply(num1,num2):
 first_number = 10
 second_number = 11
 
-print(f'sum is {operate(sum,first_number,second_number)}')
-print(f'Multiplication is {operate(multiply,first_number,second_number)}')
+print(f'\nsum is {operate(sum,first_number,second_number)}')
+print(f'Multiplication is {operate(multiply,first_number,second_number)}\n')
